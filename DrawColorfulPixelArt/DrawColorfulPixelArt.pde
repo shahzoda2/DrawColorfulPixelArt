@@ -33,13 +33,11 @@ public void settings(){
   
 }
 
-// DO NOT CHANGE ANY CODE FOUND BELOW THIS COMMENT.
 public void setup(){
   drawArt();
 }
 
 public void drawArt(){
- // Do not change lines 43 and 44
  for(int i = 0; i < rows; i++){
    for(int j = 0; j < columns; j++){
      
