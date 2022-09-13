@@ -43,9 +43,9 @@ public void drawArt(){
      
        // Add if, else if, else statements to make your art colorful!
        // The variables i and j just represent the index value of a slot in the matrix
-       if(matrix[i][j] == 0){
-         fill(0, 0 , 0);
-       }else if (matrix[i][j] == 2){
+       if(matrix[j][i] == 0){
+         fill(255, 255, 255);
+       }else if (matrix[j][i] == 2){
          fill(255, 255, 0); 
        }
        
