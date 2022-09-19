@@ -252,7 +252,17 @@ public void settings(){
   matrix[21][18]=6;
   matrix[21][19]=6;
   matrix[21][22]=6;
-  
+  matrix[22][10]=6;
+  matrix[22][9]=6;
+  matrix[22][13]=6;
+  matrix[22][19]=6;
+  matrix[22][23]=6;
+  matrix[23][9]=6;
+  matrix[23][13]=6;
+  matrix[23][19]=6;
+  matrix[23][23]=6;
+  matrix[24][11]=6;
+  matrix[24][12]=6;
   
   
   
